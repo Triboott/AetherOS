@@ -75,7 +75,7 @@ AetherOS is an Arch-based Linux distribution designed for users who value aesthe
 ## Getting Started
 
 ### Installation
-1. Download the latest ISO from the [Releases](#) section.
+1. Download the latest ISO from the [Releases]([#](https://github.com/Triboott/AetherOS/releases)) section.
 2. Create a bootable USB drive using tools like Rufus or Etcher.
 3. Boot from the USB and follow the installation instructions.
 
